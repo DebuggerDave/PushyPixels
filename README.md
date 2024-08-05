@@ -6,7 +6,7 @@ Punch your beefy opponents off screen to win the battle!
 
 ![](arms_front.gif)
 
-Created for the ![Programancer Retrograde Jam](https://itch.io/jam/retrograde-jam)  
+Created for the [Programancer Retrograde Jam](https://itch.io/jam/retrograde-jam)  
 Unsubmitted  
 
 ### Play it!
